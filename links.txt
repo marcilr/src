@@ -1,0 +1,652 @@
+links.txt
+Created Tue May 30 15:20:05 AKDT 2006
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Source related links
+
+
+Links
+=====
+Cryptoheaven - Online Storage FAQ
+http://www.cryptoheaven.com/online-storage/online-storage-FAQ.htm
+
+Cryptoheaven
+CryptoHeaven offers secure email and online file sharing/storage. Its main features are 
+secure and highly encrypted services such as group collaboration, file sharing, email, 
+online storage, and instant messaging. It integrates multi-user based security into email, 
+instant messaging, and file storage and sharing in one unique package. It provides real time 
+communication for text and data transfers in a multi-user secure environment. The security 
+and usability of CryptoHeaven is well-balanced; even the no-so-technically oriented computer 
+users can enjoy this crypto product with very high level of encryption.
+Very good service - abet expensive.
+http://www.cryptoheaven.com/
+http://freshmeat.net/projects/cryptoheaven
+
+BackupPC
+Mar 17, 2011  By Shawn Powers 
+Some tools are so amazing, but unfortunately, if no one ever talks about them, 
+many folks never hear of them. One of those programs is BackupPC. You may have 
+heard Kyle Rankin and myself talk about BackupPC on the Linux Journal Insider 
+podcast, or perhaps you've seen us write about it here in Linux Journal before. 
+If you haven't checked it out, you owe it to yourself to do so. BackupPC has some 
+great features:
+
+* Hard drive-based backups, no tape swapping.
+* Support for NFS, SSH, SMB and rsync.
+* Hard linking to save valuable disk space.
+* Individual files can be restored in place in real time.
+* Powerful and simple Web interface.
+* E-mail notification on errors.
+* Free!
+
+BackupPC is one of those projects that doesn't get updated terribly often. It 
+doesn't have flashy graphics. It doesn't require constant maintenance. It just 
+works, and it works well. Check it out: backuppc.sourceforge.net.
+
+http://www.linuxjournal.com/content/backuppc
+http://backuppc.sourceforge.net/faq/BackupPC.html
+http://backuppc.sourceforge.net/
+
+NoMachine NX
+NoMachine NX is a fast terminal server and desktop virtualization system based on the 
+X11 protocol.  NX is an order of magnitude faster than VNC or X11 and can run on bandwidth 
+as narrow as 10 kBit/sec.  In addition, NX translates and embeds the MS Windows Terminal 
+Server and VNC protocols into X/NX, enabling users to compress and accelerate remote Windows 
+and VNC sessions.  The NX project provides a suite of libraries and X11 proxying agents 
+implementing efficient compression and optimized transport of X11, SMB, IPP, HTTP, and 
+arbitrary protocols like audio and video over the Internet.
+http://freshmeat.net/projects/nx
+http://www.nomachine.com/
+
+
+tkpgp
+tkpg is a program that provides a GUI front end to Philip Zimmermann's Pretty Good Privacy 
+(PGP) public-key encryption system and also the GNU Privacy Guard (GnuPG/gpg) implementation.
+It utilizes the Clipboard Selection heavily to ease moving pgp-processed text both to and from 
+any of your applications (such as mail reader, news reader, and editor).  This removes the 
+need to select the output text by hand or by typing in a filename, since it is usually placed 
+in the Selection automatically for you.
+
+Encrypt, Decrypt, Verify, Sign, E-mail messages with a GUI interface to the PGP 
+(Pretty Good Privacy) program pgp and/or the GPG (Gnu Privacy Guard) program gpg. 
+http://www.karlrunge.com/Programs/TkPgp/TkPgp.html
+http://sourceforge.net/projects/tkpgp/
+http://freshmeat.net/projects/tkpgp
+
+Another High Priority Project done: The Unarchiver provides free RARv3 extraction tools 
+http://www.fsf.org/blogs/licensing/free-rarv3-extraction
+
+tkpgp
+tkpg is a program that provides a GUI front end to Philip Zimmermann's Pretty Good Privacy 
+(PGP) public-key encryption system and also the GNU Privacy Guard (GnuPG/gpg) 
+implementation. It utilizes the Clipboard Selection heavily to ease moving pgp-processed 
+text both to and from any of your applications (such as mail reader, news reader, and 
+editor). This removes the need to select the output text by hand or by typing in a filename, 
+since it is usually placed in the Selection automatically for you.
+http://freshmeat.net/projects/tkpgp
+http://www.karlrunge.com/Programs/TkPgp/TkPgp.html
+
+ne
+ne is a free text editor that runs on (hopefully almost) any UN*X machine. ne is easy to use 
+for the beginner, but powerful and fully configurable for the wizard, and most sparing in 
+its resource usage.
+http://freshmeat.net/projects/ne
+http://ne.dsi.unimi.it/
+
+
+Excel Writer
+Excel Writer is a package to write Excel files with basic formatting easily. It enables the 
+automatic production of reports. It uses totally portable code that builds for every system 
+without any specific piece of code. It does not interact with Excel.
+http://freshmeat.net/projects/excel-writer
+http://sourceforge.net/projects/excel-writer/
+
+
+CodeMatch
+=========
+"CodeMatch compares thousands of source code files in multiple directories and 
+subdirectories to determine which files are the most highly correlated. This can be used to 
+significantly speed up the work of finding source code plagiarism, because it can direct the 
+examiner to look closely at a small amount of code in a handful of files rather than thousands 
+of combinations. CodeMatch is also useful for finding open source code within proprietary code, 
+determining common authorship of two different programs, and discovering common, standard 
+algorithms within different programs."
+http://slashdot.org/story/11/03/02/174206/SCO-Found-No-Source-Code-In-2004#comments
+
+"For the sake of full disclosure, I was hired by SCO for a month in 2004 as a consultant and 
+potential testifying expert witness in this case. The code analysis had already been under 
+way for a while by other consultants on the case. My CodeMatch tool for measuring source 
+code correlation was fairly new at that time. I was really excited and saw this as an 
+opportunity to prove my tools and "make my reputation in this field." The SCO attorneys gave 
+me some code samples from SCO UNIX and Linux to compare. CodeMatch chugged along for days 
+before generating a report showing very little correlation. The attorneys thanked me, paid 
+me my very generous retainer (that they had put into my contract), and I never heard from 
+them again."
+http://www.groklaw.net/article.php?story=20110301153719104
+
+http://www.safe-corp.biz/products_codematch.htm
+
+
+Bugzero
+Bugzero is a Web-based bug tracking, defect tracking, issue tracking, and change management 
+system used in a distributed team environment to track software bugs, hardware defects, test 
+cases, or any other issues. It can also be used equally well as a helpdesk customer support, 
+trouble ticketing, or email management system to collect and manage customer feedbacks, 
+incidents, requests, and issues. It is easy to use, but still flexible and adaptive, and can 
+be configured to fit to your organization's unique business process and workflow.
+http://freshmeat.net/projects/bugzero
+http://www.websina.com/bugzero/
+
+Gearmand
+Gearmand is the job server component of Gearman. Gearman provides a generic framework to 
+farm out work to other machines, dispatching function calls to machines that are better 
+suited to do work, to do work in parallel, to balance the load of processing, or to call 
+functions between languages. 
+http://freshmeat.net/projects/gearmand
+http://gearman.org/
+
+Apache POI
+Java API To Access Microsoft Document File Formats
+APIs for manipulating various file formats based upon Open Office XML (ECMA-376) and 
+Microsoft's OLE 2 Compound Document formats using pure Java. Apache POI is your Java Excel, 
+Word and PowerPoint solution. We have a complete API for porting other OOXML and OLE 2 
+Compound Document formats and welcome others to participate.
+http://poi.apache.org/
+
+Apache POI - Text Extraction
+Apache POI provides text extraction for all the supported file formats. In addition, it 
+provides access to the metadata associated with a given file, such as title and author.
+http://poi.apache.org/text-extraction.html
+
+Daihinia is a tool for WiFi. It turns a simple Ad-Hoc network into a Multi-hop Ad-Hoc 
+network. Multi-hop Ad-Hoc networks offer a higher level of flexibility than the usual 
+Infrastructure Mode: in Infrastructure Mode all the computers have to be in the range of the 
+Access Point, while in Multi-hop Ad-Hoc networks they have to be within one another's range.
+http://daihinia.com/about
+
+visual-db
+visual-db is a tool for the visualization of a PostgreSQL database as tables with relations 
+between them.
+http://freshmeat.net/projects/visual-db
+http://sourceforge.net/projects/visiual-db/
+
+VFront is a dynamic Web-based front-end for MySQL or PostgreSQL databases. It is written in 
+PHP and Javascript. With it, you can create masks to manage your data in AJAX style, 
+different rules and privileges... for groups, reports in XML, HTML, and PDF format, 
+statistics, and much more
+http://freshmeat.net/projects/vfront
+http://www.vfront.org/
+
+Non Human Intelligence #1 (NHI1)
+"The line from the evolution in computer-science up to the computer hardware development 
+speed and the internet global computer network lead to the possibility to create the first 
+Non Human Intelligence until 2040. The question is not if this will happen, the question is 
+only if this intelligence will be open (controlled by the entire mankind) or will be closed 
+(controlled by a single company or by a single government).
+
+The NHI1 project will create an open intelligence."
+http://openfacts2.berlios.de/wikien/index.php/BerliosProject:NHI1#Technology
+http://freshmeat.net/projects/libmsgque
+
+BikeRoute
+BikeRoute is an Android application providing GPS-based route planning and cycle parking 
+location worldwide. (Google cycle directions in the US, CycleStreet directions in the UK, 
+and Google driving directions elsewhere). It features A to B route planning, nearby cycle 
+parking location, step by step directions, routemap, satnav, and a 'remember where I parked' 
+route finder using data and maps from the OpenStreetMap project.
+http://freshmeat.net/projects/bikeroute
+
+
+bareFTP
+bareFTP is a file transfer client supporting the FTP, FTP over SSL/TLS (FTPS), and SSH File 
+Transfer Protocol (SFTP).
+http://freshmeat.net/projects/bareftp
+http://www.bareftp.org/
+
+Simple Movie Catalog
+Simple Movie Catalog will scan a given directory for movies, query IMDb for info, and generate 
+a catalog in HTML that offers sorting and grouping of found movies by different criteria.
+http://freshmeat.net/projects/smoviecat
+http://smoviecat.sourceforge.net/
+
+Banshee
+Banshee is a PHP website framework that aims to be secure and easy to use. It uses the 
+Model-View-Controller pattern (using XSLT for the views) and is designed to use MySQL as the 
+database.
+http://freshmeat.net/projects/banshee?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+freshmeat%2Ffeeds%2Ffm-releases-global+%28Freshmeat%3A+All+Software%29#release_324401
+http://www.banshee-php.org/
+
+Opendedup
+Opendedup is a project that develops a deduplication based filesystem for Windows and Linux 
+called SDFS. SDFS is designed to support the unique needs of virtual environments and 
+supports enhanced functionality for VMWare, Xen, and KVM. It can deduplicate a petabyte or 
+more of data. It supports over 3TB per gigabyte of memory at a 128k chunk size. It can 
+perform deduplication/reduplication at a line speed of 250 MB/s or more. VMware support: it 
+works with vms, and can deduplicate at 4k block sizes. This is required to deduplicate 
+Virtual Machines effectively Deduplicated data can be stored locally, on the network across 
+multiple nodes, or in the cloud. The filesystem can deduplicate inline or periodically based 
+on needs. This can be changed on the fly. There is support for file or folder level 
+snapshots.
+operating systems: Linux (64 Bit), Windows (32 bit)
+http://freshmeat.net/projects/opendedup
+http://opendedup.org/
+
+
+myBill
+myBill is a utility that makes the management of personal expenses easier through tracking 
+and manipulation of bills and receipts issued by various companies.
+http://freshmeat.net/projects/mybill
+
+beaTunes
+beaTunes is an iTunes companion app capable of automatically analyzing your music collection 
+to help you build better playlists. It analyzes BPM (beats per minute), silence at the 
+beginning or end of a song, and the color (based on frequency spectrum) of a given song. 
+Some of the data is stored through iTunes, and some is stored by beaTunes itself. beaTunes 
+can suggest albums that would complement your music collection, display music charts, and 
+help you find and fix errors in your song meta data, like typos and wrong genres. It also 
+allows you to blog about selected songs or playlists. 
+http://freshmeat.net/projects/beatunes
+
+persistence4j
+persistence4j is a small and lightweight Java object persister that uses JDBC to persist 
+data into a relational database. The library frees you from writing the Data transfer 
+objects - just create a POJO and simply save it. Transactional and non-transactional 
+connections are supported and can be configured from the simple properties file.
+http://freshmeat.net/projects/persistence4j
+
+libburnia 0.6.2
+libburnia is a project comprised of libraries and binaries for reading, mastering, and 
+writing optical discs. It provides libburn, a CD/DVD/BD burn library, libisofs, a 
+manipulation library for ISO 9660 filesystems, and libisoburn, a ISO 9660 multi-session 
+library. On top of them there is cdrskin, a cdrecord emulator, and xorriso, a all-in-one 
+application for ISO 9660 multi-session operations which additionaly provides a limited 
+emulation of mkisofs. 
+http://freshmeat.net/projects/libburnia
+
+Genius is an arbitrary precision integer and multiple precision floating point calculator. 
+It includes its own programming language similar in some aspects to C, bc, or Pascal. It can 
+deal with rational numbers and complex numbers. It has matrix support as well. It uses the 
+gmp library so it is very fast for calculations of large numbers. It has a command line and 
+a GNOME interface. The GNOME interface supports plotting functions and 3D surfaces.
+http://freshmeat.net/projects/genius
+
+i-doIT is a CMDB (configuration management database) based on ITIL guidelines. It documents 
+IT systems and their changes, defines emergency plans, displays vital information, and helps 
+to ensure a stable...  and effcient operation of IT networks. i-doiT allows a rich amount of 
+technical information to be filed for each element from a wall outlet to a mainframe in a 
+structured way. 
+http://freshmeat.net/projects/i-doit
+
+Music Player Daemon Wiki
+mpd - music sharing
+http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki
+
+Squeezebox (network music player)
+From Wikipedia, the free encyclopedia
+"The Squeezebox is a network music player from Logitech"
+http://en.wikipedia.org/wiki/Squeezebox_%28network_music_player%29
+
+Interesting software off freshmeat:
+
+Document Management For Research With Annotation?
+"I'm currently looking for a document management system for personal and research-related 
+use. Having looked at Alfresco and KnowledgeTree along with a slew of similar open source 
+document management systems they seem to have a common set of features including version 
+control, archiving, document permission/ownership and search/indexing. What I'd like, in 
+order to help me manage my own continually growing collection of pdf/doc/odf/rtf/txt files, 
+would be something that allowed me to view and annotate documents (and possibly 
+collaborate/share notes) without requiring me to download, edit and re-upload each document. 
+Obviously there are plenty of capable document management systems out there, so I really 
+suspect I've simply missed something and am hoping someone can point me to a better way to 
+index, search, collaborate and keep and share notes on the ever increasing glut of useful 
+information I seem to use and collect."
+
+Really cool idea.  Some good responses:
+by eldavojohn (898314) * writes:  <my/.username@@@gmail.com>  on Thursday February 11, 2010
+
+A coworker implemented a basic ruby service of this where I work and I have to say that he 
+didn't find any open source alternatives before he started that fulfilled anywhere near what 
+we needed. Ruby made it pretty easy (1 or 2 person job) with the emphasis just being 
+javascript and DOM coding to get the interface correct. Then we just had a RESTful service 
+for storing these and from there we'll keep adding on features like messaging/e-mail 
+alearts/etc for the users when we get time. Yes, I'm aware that if I open sourced this you 
+could help me out with that but I'm sorry, my employer is not on that boat (yet).
+
+For your reference, even just document management is a sticky solution to find in open 
+source, we've talked [slashdot.org] about it [slashdot.org] time [slashdot.org] and time 
+[slashdot.org] again [slashdot.org].
+
+Document Management and Version Control? 
+http://ask.slashdot.org/article.pl?sid=06/06/05/1922209
+
+Best Way to Build a Searchable Document Index?
+http://ask.slashdot.org/article.pl?sid=07/10/01/1959239
+
+How Do You Handle Your Enterprise Documentation? 
+http://ask.slashdot.org/article.pl?sid=06/12/15/0220210
+
+Open Source Document Management and Revision Control?
+http://ask.slashdot.org/article.pl?sid=99/11/12/0348229
+
+How To Manage Hundreds of Thousands of Documents?
+http://ask.slashdot.org/story/09/06/10/2114220/How-To-Manage-Hundreds-of-Thousands-of-Documents?from=rss
+
+What is a REST Web Service
+The acronym REST stands for Representational State Transfer, this basically means that each 
+unique URL is a representation of some object. You can get the contents of that object using 
+an HTTP GET, to delete it, you then might use a POST, PUT, or DELETE to modify the object 
+(in practice most of the services use a POST for this).
+
+The main advantages of REST web services are:
+* Lightweight - not a lot of extra xml markup
+* Human Readable Results
+* Easy to build - no toolkits required
+
+For consuming web services, its sometimes a toss up between which is easier. For instance 
+Google's AdWords web service is really hard to consume (in CF anyways), it uses SOAP 
+headers, and a number of other things that make it kind of difficult. On the converse, 
+Amazon's REST web service can sometimes be tricky to parse because it can be highly nested, 
+and the result schema can vary quite a bit based on what you search for.
+
+Which ever architecture you choose make sure its easy for developers to access it, and well 
+documented.
+from: http://www.petefreitag.com/item/431.cfm
+
+----------
+
+Papers * your personal library of research
+
+"At last, I'm back to knowing what I have and where it is.
+Bedlam has been defeated."
+  -- New York Times
+
+http://mekentosj.com/papers/
+
+----------
+
+Zotero [zoh-TAIR-oh] is a free, easy-to-use Firefox extension to help you collect, manage, 
+and cite your research sources. It lives right where you do your work-in the web browser 
+itself. 
+
+Zotero is the closest thing. It's not perfect, far from it, but none of the competition came 
+even close.
+
+Zotero is a Firefox plugin that allows you to link or store information, be it webpages, 
+pdf's or anything else you may see online. It's possible to group & tag your documents in 
+various ways and there are various options for taking notes and adding annotations.
+
+All of it is stored online so you don't need to carry anything with you. Just install the 
+firefox plugin, enter your credentials and off you go.
+http://www.zotero.org/
+
+----------
+
+WIKINDX is a free bibliographic and quotations/notes management and article authoring system 
+designed either for single use (on a variety of operating sytems) or multi-user 
+collaborative use across the internet.
+
+http://wikindx.sourceforge.net/index2.html
+
+----------
+
+OpenDocMan
+Opensource document management for the masses
+
+http://www.opendocman.com/
+
+----------
+
+Zotero should work for a single person, but if you're trying to do this for an office, you 
+might want to take a look at Aigaion.
+
+If you want to look at others to see what best fits your needs, see:
+  http://en.wikipedia.org/wiki/Comparison_of_reference_management_software 
+
+Main thread:
+Document Management For Research With Annotation?
+http://ask.slashdot.org/story/10/02/11/1954225/Document-Management-For-Research-With-Annotation?art_pos=3
+
+
+Banshee
+=======
+"To start with the basics, Banshee can play all the most common music formats, such as 
+Apple's AAC (Advanced Audio Coding), MP3s, and Ogg Vorbis. Better still, the tracks I've 
+burned from my CD collection sound pretty darn good on the old bookcase JBL J2060 speakers.
+...
+It also supports iPod synchronization. I was able to bring tunes in from my iPod and to put 
+new songs on the iPod. I could also place my music on a network drive and then use iTunes to 
+play them when I'm on my Mac or use Banshee to listen to them when I'm on one of my Linux 
+systems."
+
+package:
+  banshee - Audio Management and Playback application
+
+http://banshee-project.org/
+http://www.desktoplinux.com/articles/AT7150747782.html
+http://en.wikipedia.org/wiki/File:Banshee.png
+
+
+Tiny Core Linux
+===============
+Tiny Core Linux is a very small (10 MB) minimal Linux desktop. It is based on the Linux 2.6 
+kernel, Busybox, Tiny X, and Fltk. The core runs entirely in RAM and boots very quickly. The 
+user has complete control over which applications and/or additional hardware to have 
+supported, be it for a desktop, a nettop, an appliance, or server, selectable from the 
+online repository.
+
+http://freshmeat.net/projects/tinycorelinux
+http://www.tinycorelinux.com/
+
+
+arbtt
+The program arbtt, the automatic rule-based time tracker, allows you to investigate how you 
+spend your time, without having to manually specify what you are doing. arbtt records which 
+windows are open and active, and provides you with a powerful rule-based language to 
+afterwards categorize your work.
+http://freshmeat.net/projects/arbtt
+http://www.joachim-breitner.de/projects#arbtt
+
+
+SVNKit 1.3.2
+SVNKit is a pure Java Subversion (SVN) client library. This means that users of the library 
+(i.e. Java applications) do not have to include svn native binaries or javahl bindings to 
+work with subversion... repositories. It is not only a 100% Java replacement for javahl 
+bindings, but also a library that provides a high level of control over subversion 
+repository operations
+http://freshmeat.net/projects/svnkit
+http://svnkit.com/
+
+
+FreeGuide TV Guide
+FreeGuide is a TV guide program. It allows you to find programs you are interested in 
+quickly, and ignore the rest.
+http://freshmeat.net/projects/freeguide-tv
+http://www.artificialworlds.net/freeguide/Main/HomePage
+Installing FreeGuide on Debian
+http://www.artificialworlds.net/freeguide/DownloadAndInstall/LinuxDebian
+Tried install, via aptitude, completely hangs.
+
+Octopussy
+Octopussy is a solution to manage your logs (also frequently called a SIM/SEM/SIEM 
+Solution). Basically, it stores your logs, produces reports, and raises alerts.
+Sweet web based app.
+http://freshmeat.net/projects/octopussy
+http://www.8pussy.org/dokuwiki/doku.php
+
+
+Picard
+Picard is a MusicBrainz tagging application. Its tagging concept is album-oriented, 
+as opposed to track-oriented like the classic MusicBrainz tagger. 
+http://musicbrainz.org/doc/Picard
+http://freshmeat.net/projects/picard
+
+
+CN=Monitor
+CN=Monitor is a directory server monitoring tool. The goal is to provide a general 
+monitoring tool for Directory Servers It focuses on iPlanet-based (Red Hat/Fedora/Sun), 
+OpenLDAP, and eDirectory servers. Other servers will be recognized if possible.
+http://freshmeat.net/projects/cnmonitor
+
+
+libburnia 0.6.24
+libburnia is a project comprised of libraries and binaries for reading, mastering, and 
+writing optical discs. It provides libburn, a CD/DVD/BD burn library, libisofs, a 
+manipulation library for ISO 9660... filesystems, and libisoburn, a ISO 9660 multi-session 
+library. On top of them there is cdrskin, a cdrecord emulator, and xorriso, a all-in-one 
+application for ISO 9660 multi-session operations which additionaly provides a limited 
+emulation of mkisofs.
+http://freshmeat.net/projects/libburnia
+
+
+Code Browser
+Code Browser is a folding and outlining editor. It is a lightweight but powerful tool for 
+structuring and browsing source code using folders and links. It is especially designed to 
+keep a good overview of the code of a large project.
+http://freshmeat.net/projects/code-browser
+
+
+DVDstyler 1.7.4
+DVDStyler is a crossplatform GUI frontend to the DVD authoring and recording programs 
+dvdauthor and growisofs. 
+http://freshmeat.net/
+
+gPhoto - digital camera software.
+  http://www.gphoto.org
+  Saw link on freshmeat for gtkam. gtkam is a GNOME front-end for
+  gphoto, which allows you to retrieve photos and movies from over
+  300 different digital cameras.
+
+PDFreactor 1.0.882
+ by RealObjects - Tue, May 30th 2006 11:37 PDT
+ http://www.realobjects.com/pdfreactor
+
+About: PDFreactor is a formatting processor for converting XML
+and XHTML/HTML documents into PDF. It uses Cascading Style Sheets
+(CSS) to define page layout and styles. It allows you to dynamically
+generate PDF documents such as invoices, delivery notes, and
+shipping documents on-the-fly. Vector graphics (SVG), barcodes, and
+XSLT are supported. All common J2EE application servers are
+supported. Direct integration into automatic build processes using
+Apache Ant is also possible. 
+
+XFree86 timing calculator
+A cool online modeline calculator.
+http://xtiming.sourceforge.net
+
+ZUPS 1.1:
+home: http://www.zups.sw.fu-berlin.de/
+download: http://www.zups.sw.fu-berlin.de/download/zups-1.1.tar.gz
+
+Dropped into /usr/local/src/00TARBALLS/utils/zups-1.1.tar.gz
+
+ZUPS allows for monitoring the state of one or more UPS
+devices using SNMP and executing user-specified commands
+in case of power outage, such as email notifications and
+controlled remote host shutdowns. If the UPS devices are
+running on battery, the shutdown commands are executed
+for an arbitrary number of remote hosts, optionally with
+some delay specified for each host. ZUPS can be
+configured to ignore these delays and run the specified
+commands immediately if the UPS devices are running out
+of battery power. Custom plugins can easily be added in
+order to perform other checks.
+
+Areca 3.2.7 (java-based)
+home: http://areca.sourceforge.net/
+zip: http://sourceforge.net/project/showfiles.php?group_id=171505
+About: Areca is a file backup system that supports data
+compression and encryption, incremental backups, a file
+history explorer, and many other features. It includes a
+transaction mechanism, which guarantees the integrity of
+your backups. Two user interfaces are available: a
+command-line interface (useful for backup process
+automation) and a graphical user interface (useful for
+general administration tasks).
+
+ATA over Ethernet driver 34 (For Linux 2.6)
+home: http://www.coraid.com/support/linux
+Tar/GZ: http://www.coraid.com/support/linux/aoe6-34.tar.gz
+About: This driver allows the Linux kernel to use the ATA over
+Ethernet (AoE) network protocol. Using AoE, a Linux system can
+use AoE block devices like EtherDrive (R) storage blades. The
+block devices appear as local device nodes (e.g. /dev/etherd/e0.0).
+
+renamepics 1.0.2 
+home: http://zachfamily.org/renamepics/
+Tar/BZ2: http://zachfamily.org/renamepics/renamepics-1.0.2.tar.bz2
+About: renamepics is a script that uses the exiftags program to
+rename all JPEG files within a directory to the date and time
+they were taken using EXIF information.
+
+PDFTextStream 2.0.1
+home: http://snowtide.com/
+purchase: http://snowtide.com/Purchase
+About: PDFTextStream is a PDF text and metadata extraction
+library available for Java, Python, and .NET. It supports all
+versions of the PDF document specification, (including v1.6,
+used by Acrobat 7), extraction of text encoded using double-byte
+character sets (including Chinese, Japanese, and Korean),
+decryption of 40-bit and 128-bit encrypted documents, and
+extraction of all document metadata provided by PDF documents
+(including form data, bookmarks, and annotations). Easy
+integration with Jakarta Lucene is included.
+
+
+Freshmeat search for "integrity check" yields plenty
+of hits:
+
+Integrity - Default branch
+tar/gz: http://ipsec.pl/pubs/integrity-1.1.tar.gz
+About: Integrity is a simple but robust file integrity checker.
+Comments: Working on getting this working on vegemite with
+a cron job.
+
+
+Cool slashdot on Tesseract OCR program
+======================================
+Google Releases Tesseract as Open Source:
+http://developers.slashdot.org/developers/06/09/04/2215210.shtml
+"Google recently released Tesseract as open source. Originally
+developed at the HP Labs from 1985-1995, it has been touted as one
+of the most accurate Optical Character Recognition (OCR) programs
+available. Having sat on the shelf gathering dust for so many years,
+Google cleaned up some of the more outdated portions of the code
+and released it for general consumption. You can download Tesseract
+over at Sourceforge.
+
+Announcing Tesseract OCR
+http://google-code-updates.blogspot.com/2006/08/announcing-tesseract-ocr.html
+We wanted to let you all know that a few months ago we quietly
+released - or actually re-released - an Optical Character
+Recognition (OCR) engine into open source. You might wonder
+why Google is interested in OCR? In a nutshell, we are all
+about making information available to users, and when this
+information is in a paper document, OCR is the process by
+which we can convert the pages of this document into text that
+can then be used for indexing.
+
+Tesseract OCR
+http://sourceforge.net/projects/tesseract-ocr
+
+
+Links:
+=====
+MythBurnInstallation - MythTV
+MythBurn is one of several solutions to the problem of getting video
+out of your MythTV box on to DVD-Video discs so you can play them in
+your DVD player. The user interface for Mythburn integrates into
+Mythweb and allows you to select recordings to store on the DVD,
+graphics and sound for the DVD menu etc. Mythburn can either create
+an ISO-image of the DVD, that you can burn on a different PC or it
+can burn the DVD directly, if you have a DVD-writer in the backend.
+If a recording is too large to fit on a DVD, Mythburn will
+automatically shrink (recompress) the recording, so that the
+resulting size is less than 4.7 GB.
+  http://www.mythtv.org/wiki/index.php/MythBurnInstallation
+
+Inkscape. Draw Freely.
+Inkscape is a Vector Graphics Editor, similar to Adobe Illustrator, 
+that strives to be SVG Compliant, open source, responsive and extensible.
+Looks cool.
+http://www.inkscape.org/
