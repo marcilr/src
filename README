@@ -32,6 +32,9 @@ im/
 links.txt
   Source related links
 
+nix/
+  Unix-like computer operating systems
+
 nixCraft.txt
   nixCraft
   Linux Tips, Hacks, And Ideas in Blog Format
