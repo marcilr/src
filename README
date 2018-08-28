@@ -1,0 +1,43 @@
+README
+Created Wed Oct 14 08:14:30 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+mythtv/
+  MythTV, Open Source DVR
+  https://www.mythtv.org/
+
+apps/
+  Applications
+
+cli/
+  Command line interface applications.  
+
+daemons/
+  Dameons
+
+im/
+  Instant Messaging
+
+links.txt
+  Source related links
+
+nixCraft.txt
+  nixCraft
+  Linux Tips, Hacks, And Ideas in Blog Format
+  https://www.cyberciti.biz
+
+manifest
+  Manifest for resync application
+
+mythtv/
+  MythTV, Open Source DVR
+  https://www.mythtv.org/
+  
+src.txt
+  Source
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under src/
