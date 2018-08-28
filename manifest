@@ -1,0 +1,89 @@
+# manifest
+# Created Sun Nov 20 09:33:43 AKST 2016
+# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Manifest for resync application
+#
+# To my knowledge GitHub does not support hierarchical repositories outside
+# of perhaps git submodules.  However, submodules are not so good so I've
+# implemented hierarchical repositories using repo names and this manifest.
+#
+# The dashes in the repo names represent directory separation.  There are
+# some repos like svn-to-git/ that have acutally dashes in the repo name.
+# Have not escaped these dashes in any way.   Might do this at some point.
+#
+
+# =====================================================================
+# =====================================================================
+#
+# Private htpc repositories
+# Public GitHub repositories
+#
+# =====================================================================
+# =====================================================================
+
+
+# =====================================================================
+#
+# Src
+#
+# =====================================================================
+
+
+# Balsamiq Mockups
+ssh://git@github.com/marcilr/balsamiq-mockups    balsamiq-mockups
+
+# CAD
+ssh://htpc/data/git/src/cad/cad                  cad
+
+# CLI
+ssh://htpc/data/git/src/cli/cli                  cli
+
+# CUPS printing
+ssh://git@github.com/marcilr/cups                cups
+
+
+# =====================================================================
+#
+# Daemons
+#
+# =====================================================================
+ssh://htpc/data/git/src/daemons/daemons          daemons
+ssh://htpc/data/git/src/daemons/ntp              daemons/ntp
+
+
+# =====================================================================
+#
+# Databases
+#
+# =====================================================================
+ssh://htpc/data/git/src/databases/databases      databases
+ssh://htpc/data/git/src/databases/dbvisualizer   databases/dbvisualizer
+ssh://git@github.com/marcilr/mysql               databases/mysql  
+
+# Gimp
+ssh://git@github.com/marcilr/gimp                gimp
+
+# GNOME
+ssh://git@github.com/marcilr/gnome               gnome
+
+# golang-book
+ssh://htpc/data/git/src/golang-book              golang-book
+
+# LibreOffice - Free Office Suite
+ssh://git@github.com/marcilr/libreoffice         libreoffice
+
+# =====================================================================
+#
+# Microsoft Office
+#
+# =====================================================================
+ssh://htpc/data/git/src/office/office            office
+ssh://htpc/data/git/src/office/word-10           office/word-10
+
+# =====================================================================
+#
+# Window Manager
+#
+# =====================================================================
+ssh://git@github.com/marcilr/window-manager      window-manager
