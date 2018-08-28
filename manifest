@@ -73,6 +73,9 @@ ssh://htpc/data/git/src/golang-book              golang-book
 # LibreOffice - Free Office Suite
 ssh://git@github.com/marcilr/libreoffice         libreoffice
 
+# Unix-like computer operating systems
+ssh://git@github.com/marcilr/nix                 nix
+
 # =====================================================================
 #
 # Microsoft Office
